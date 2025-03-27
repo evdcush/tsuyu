@@ -45,9 +45,9 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/camel-ai/camel">camel</a></b> (🥇30 ·  ⭐ 11K · 📈) - CAMEL: Finding the Scaling Law of Agents. The first and the best.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/camel-ai/camel">camel</a></b> (🥇30 ·  ⭐ 11K) - CAMEL: The first and the best multi-agent framework. Finding the Scaling.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/camel-ai/camel) (👨‍💻 93 · 🔀 1.1K · 📥 630 · 📦 120 · 📋 820 - 36% open · ⏱️ 20.03.2025):
+- [GitHub](https://github.com/camel-ai/camel) (👨‍💻 96 · 🔀 1.2K · 📥 670 · 📦 140 · 📋 850 - 35% open · ⏱️ 27.03.2025):
 
 	```
 	git clone https://github.com/camel-ai/camel
@@ -55,7 +55,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/EpistasisLab/tpot">tpot</a></b> (🥇28 ·  ⭐ 9.9K) - A Python Automated Machine Learning tool that optimizes machine.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/EpistasisLab/tpot) (👨‍💻 9 · 🔀 1.5K · 📦 3.3K · 📋 930 - 31% open · ⏱️ 26.02.2025):
+- [GitHub](https://github.com/EpistasisLab/tpot) (👨‍💻 9 · 🔀 1.5K · 📦 3.3K · 📋 930 - 30% open · ⏱️ 26.02.2025):
 
 	```
 	git clone https://github.com/EpistasisLab/tpot
@@ -63,21 +63,13 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/DEAP/deap">deap</a></b> (🥇26 ·  ⭐ 6K) - Distributed Evolutionary Algorithms in Python. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/DEAP/deap) (👨‍💻 90 · 🔀 1.1K · 📦 6K · 📋 520 - 44% open · ⏱️ 09.01.2025):
+- [GitHub](https://github.com/DEAP/deap) (👨‍💻 90 · 🔀 1.1K · 📦 6.1K · 📋 520 - 44% open · ⏱️ 09.01.2025):
 
 	```
 	git clone https://github.com/DEAP/deap
 	```
 </details>
-<details><summary><b><a href="https://github.com/ahmedfgad/GeneticAlgorithmPython">GeneticAlgorithmPython</a></b> (🥇25 ·  ⭐ 2K) - Source code of PyGAD, a Python 3 library for building.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/ahmedfgad/GeneticAlgorithmPython) (👨‍💻 23 · 🔀 470 · 📥 1.2K · 📦 760 · 📋 170 - 57% open · ⏱️ 08.03.2025):
-
-	```
-	git clone https://github.com/ahmedfgad/GeneticAlgorithmPython
-	```
-</details>
-<details><summary><b><a href="https://github.com/mlcommons/ck">ck</a></b> (🥇25 ·  ⭐ 620 · 📉) - Collective Knowledge (CK), Collective Mind (CM) and Common Metadata.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/mlcommons/ck">ck</a></b> (🥇25 ·  ⭐ 620) - Collective Knowledge (CK), Collective Mind (CM/CMX) and MLPerf automations:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/mlcommons/ck) (👨‍💻 34 · 🔀 120 · 📦 120 · 📋 500 - 1% open · ⏱️ 20.03.2025):
 
@@ -87,7 +79,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/anyoptimization/pymoo">pymoo</a></b> (🥇24 ·  ⭐ 2.4K) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/anyoptimization/pymoo) (👨‍💻 60 · 🔀 410 · 📦 1.6K · 📋 440 - 5% open · ⏱️ 18.02.2025):
+- [GitHub](https://github.com/anyoptimization/pymoo) (👨‍💻 60 · 🔀 410 · 📦 1.6K · 📋 440 - 6% open · ⏱️ 18.02.2025):
 
 	```
 	git clone https://github.com/anyoptimization/pymoo
@@ -95,13 +87,21 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/google/vizier">vizier</a></b> (🥇24 ·  ⭐ 1.5K) - Python-based research interface for blackbox and hyperparameter.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/google/vizier) (👨‍💻 24 · 🔀 99 · 📦 74 · 📋 43 - 2% open · ⏱️ 17.03.2025):
+- [GitHub](https://github.com/google/vizier) (👨‍💻 24 · 🔀 99 · 📦 76 · 📋 43 - 2% open · ⏱️ 17.03.2025):
 
 	```
 	git clone https://github.com/google/vizier
 	```
 </details>
-<details><summary><b><a href="https://github.com/OpenBMB/ChatDev">ChatDev</a></b> (🥇22 ·  ⭐ 27K · 📉) - Create Customized Software using Natural Language Idea (through.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google-deepmind/concordia">concordia</a></b> (🥇23 ·  ⭐ 820 · 📈) - A library for generative social simulation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/google-deepmind/concordia) (👨‍💻 24 · 🔀 150 · 📦 14 · 📋 43 - 13% open · ⏱️ 27.03.2025):
+
+	```
+	git clone https://github.com/google-deepmind/concordia
+	```
+</details>
+<details><summary><b><a href="https://github.com/OpenBMB/ChatDev">ChatDev</a></b> (🥇22 ·  ⭐ 27K) - Create Customized Software using Natural Language Idea (through LLM-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/OpenBMB/ChatDev) (👨‍💻 65 · 🔀 3.3K · 📋 270 - 8% open · ⏱️ 30.12.2024):
 
@@ -109,9 +109,9 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/OpenBMB/ChatDev
 	```
 </details>
-<details><summary><b><a href="https://github.com/modelscope/agentscope">agentscope</a></b> (🥇22 ·  ⭐ 6.6K · 📉) - Start building LLM-empowered multi-agent applications in an.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/modelscope/agentscope">agentscope</a></b> (🥇22 ·  ⭐ 6.8K) - Start building LLM-empowered multi-agent applications in an.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/modelscope/agentscope) (👨‍💻 36 · 🔀 380 · 📥 38 · 📦 18 · 📋 170 - 20% open · ⏱️ 18.03.2025):
+- [GitHub](https://github.com/modelscope/agentscope) (👨‍💻 36 · 🔀 390 · 📥 38 · 📦 18 · 📋 170 - 20% open · ⏱️ 27.03.2025):
 
 	```
 	git clone https://github.com/modelscope/agentscope
@@ -133,17 +133,9 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/learning-at-home/hivemind
 	```
 </details>
-<details><summary><b><a href="https://github.com/google-deepmind/concordia">concordia</a></b> (🥇22 ·  ⭐ 810) - A library for generative social simulation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/aimclub/FEDOT">FEDOT</a></b> (🥇22 ·  ⭐ 660) - Automated modeling and machine learning framework FEDOT. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/google-deepmind/concordia) (👨‍💻 24 · 🔀 150 · 📦 14 · 📋 43 - 13% open · ⏱️ 16.03.2025):
-
-	```
-	git clone https://github.com/google-deepmind/concordia
-	```
-</details>
-<details><summary><b><a href="https://github.com/aimclub/FEDOT">FEDOT</a></b> (🥇22 ·  ⭐ 660 · 📈) - Automated modeling and machine learning framework FEDOT. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/aimclub/FEDOT) (👨‍💻 38 · 🔀 86 · 📦 59 · 📋 560 - 11% open · ⏱️ 10.03.2025):
+- [GitHub](https://github.com/aimclub/FEDOT) (👨‍💻 38 · 🔀 87 · 📦 60 · 📋 560 - 11% open · ⏱️ 21.03.2025):
 
 	```
 	git clone https://github.com/aimclub/FEDOT
@@ -157,9 +149,17 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/mindspore-ai/mindspore
 	```
 </details>
-<details><summary><b><a href="https://github.com/EMI-Group/evox">evox</a></b> (🥇21 ·  ⭐ 340) - Distributed GPU-Accelerated Framework for Evolutionary Computation... <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/ahmedfgad/GeneticAlgorithmPython">GeneticAlgorithmPython</a></b> (🥇21 ·  ⭐ 2K · 📉) - Source code of PyGAD, a Python 3 library for building.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/EMI-Group/evox) (👨‍💻 28 · 🔀 50 · 📦 4 · ⏱️ 18.03.2025):
+- [GitHub](https://github.com/ahmedfgad/GeneticAlgorithmPython) (👨‍💻 23 · 🔀 470 · 📥 1.2K · 📋 170 - 57% open · ⏱️ 08.03.2025):
+
+	```
+	git clone https://github.com/ahmedfgad/GeneticAlgorithmPython
+	```
+</details>
+<details><summary><b><a href="https://github.com/EMI-Group/evox">evox</a></b> (🥇21 ·  ⭐ 360) - Distributed GPU-Accelerated Framework for Evolutionary Computation... <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/EMI-Group/evox) (👨‍💻 28 · 🔀 53 · 📦 5 · ⏱️ 27.03.2025):
 
 	```
 	git clone https://github.com/EMI-Group/evox
@@ -167,15 +167,15 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/NiaOrg/NiaPy">NiaPy</a></b> (🥇21 ·  ⭐ 270) - Python microframework for building nature-inspired algorithms. Official.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/NiaOrg/NiaPy) (👨‍💻 35 · 🔀 81 · 📦 100 · 📋 100 - 3% open · ⏱️ 06.01.2025):
+- [GitHub](https://github.com/NiaOrg/NiaPy) (👨‍💻 35 · 🔀 82 · 📦 100 · 📋 100 - 3% open · ⏱️ 06.01.2025):
 
 	```
 	git clone https://github.com/NiaOrg/NiaPy
 	```
 </details>
-<details><summary><b><a href="https://github.com/RobertTLange/evosax">evosax</a></b> (🥇20 ·  ⭐ 580 · 📈) - Evolution Strategies in JAX. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/RobertTLange/evosax">evosax</a></b> (🥇20 ·  ⭐ 590) - Evolution Strategies in JAX. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/RobertTLange/evosax) (👨‍💻 9 · 🔀 47 · 📦 140 · 📋 43 - 2% open · ⏱️ 13.03.2025):
+- [GitHub](https://github.com/RobertTLange/evosax) (👨‍💻 9 · 🔀 48 · 📦 140 · 📋 43 - 2% open · ⏱️ 13.03.2025):
 
 	```
 	git clone https://github.com/RobertTLange/evosax
@@ -183,7 +183,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/erikbern/ann-benchmarks">ann-benchmarks</a></b> (🥈19 ·  ⭐ 5.2K) - Benchmarks of approximate nearest neighbor libraries in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/erikbern/ann-benchmarks) (👨‍💻 110 · 🔀 750 · 📋 230 - 32% open · ⏱️ 03.03.2025):
+- [GitHub](https://github.com/erikbern/ann-benchmarks) (👨‍💻 110 · 🔀 750 · 📋 230 - 33% open · ⏱️ 03.03.2025):
 
 	```
 	git clone https://github.com/erikbern/ann-benchmarks
@@ -191,7 +191,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/lucidrains/lion-pytorch">lion-pytorch</a></b> (🥈19 ·  ⭐ 2.1K) - Lion, new optimizer discovered by Google Brain using genetic.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/lucidrains/lion-pytorch) (👨‍💻 6 · 🔀 52 · 📦 940 · 📋 24 - 33% open · ⏱️ 27.11.2024):
+- [GitHub](https://github.com/lucidrains/lion-pytorch) (👨‍💻 6 · 🔀 52 · 📦 950 · 📋 24 - 33% open · ⏱️ 27.11.2024):
 
 	```
 	git clone https://github.com/lucidrains/lion-pytorch
@@ -205,7 +205,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/facebookresearch/theseus
 	```
 </details>
-<details><summary><b><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers">Gradient-Free-Optimizers</a></b> (🥈19 ·  ⭐ 1.2K · 📉) - Simple and reliable optimization with local, global,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers">Gradient-Free-Optimizers</a></b> (🥈19 ·  ⭐ 1.2K) - Simple and reliable optimization with local, global,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/SimonBlanke/Gradient-Free-Optimizers) (👨‍💻 7 · 🔀 85 · 📥 56 · 📦 37 · 📋 53 - 24% open · ⏱️ 10.03.2025):
 
@@ -279,7 +279,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/sotopia-lab/sotopia">sotopia</a></b> (🥈18 ·  ⭐ 200) - Sotopia: an Open-ended Social Learning Environment (ICLR 2024 spotlight). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sotopia-lab/sotopia) (👨‍💻 19 · 🔀 27 · 📦 8 · 📋 77 - 12% open · ⏱️ 25.02.2025):
+- [GitHub](https://github.com/sotopia-lab/sotopia) (👨‍💻 19 · 🔀 28 · 📦 8 · 📋 77 - 11% open · ⏱️ 23.03.2025):
 
 	```
 	git clone https://github.com/sotopia-lab/sotopia
@@ -293,9 +293,9 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/danijar/dreamerv3
 	```
 </details>
-<details><summary><b><a href="https://github.com/evo-design/evo">evo</a></b> (🥈17 ·  ⭐ 1.3K) - Biological foundation modeling from molecular to genome scale. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/evo-design/evo">evo</a></b> (🥈17 ·  ⭐ 1.4K) - Biological foundation modeling from molecular to genome scale. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/evo-design/evo) (👨‍💻 9 · 🔀 160 · 📦 4 · 📋 70 - 48% open · ⏱️ 26.02.2025):
+- [GitHub](https://github.com/evo-design/evo) (👨‍💻 9 · 🔀 160 · 📦 4 · 📋 71 - 49% open · ⏱️ 26.02.2025):
 
 	```
 	git clone https://github.com/evo-design/evo
@@ -303,15 +303,15 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/rodrigo-arenas/Sklearn-genetic-opt">Sklearn-genetic-opt</a></b> (🥈17 ·  ⭐ 330) - ML hyperparameters tuning and features selection, using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) (👨‍💻 16 · 🔀 78 · 📦 59 · 📋 65 - 4% open · ⏱️ 25.01.2025):
+- [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) (👨‍💻 16 · 🔀 79 · 📦 59 · 📋 66 - 6% open · ⏱️ 25.01.2025):
 
 	```
 	git clone https://github.com/rodrigo-arenas/Sklearn-genetic-opt
 	```
 </details>
-<details><summary><b><a href="https://github.com/NACLab/ngc-learn">ngc-learn</a></b> (🥈17 ·  ⭐ 130) - NGC-Learn: Neurobiological Learning and Biomimetic Systems Simulation.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/NACLab/ngc-learn">ngc-learn</a></b> (🥈17 ·  ⭐ 140) - NGC-Learn: Neurobiological Learning and Biomimetic Systems Simulation.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/NACLab/ngc-learn) (👨‍💻 11 · 🔀 27 · 📦 5 · 📋 12 - 33% open · ⏱️ 20.03.2025):
+- [GitHub](https://github.com/NACLab/ngc-learn) (👨‍💻 11 · 🔀 27 · 📦 5 · 📋 12 - 33% open · ⏱️ 21.03.2025):
 
 	```
 	git clone https://github.com/NACLab/ngc-learn
@@ -333,9 +333,9 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/7ossam81/EvoloPy
 	```
 </details>
-<details><summary><b><a href="https://github.com/MichaelTMatthews/Craftax">Craftax</a></b> (🥈16 ·  ⭐ 290) - (Crafter + NetHack) in JAX. ICML 2024 Spotlight. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MichaelTMatthews/Craftax">Craftax</a></b> (🥈16 ·  ⭐ 300) - (Crafter + NetHack) in JAX. ICML 2024 Spotlight. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/MichaelTMatthews/Craftax) (👨‍💻 9 · 🔀 26 · 📦 25 · ⏱️ 23.02.2025):
+- [GitHub](https://github.com/MichaelTMatthews/Craftax) (👨‍💻 9 · 🔀 26 · 📦 26 · 📋 18 - 5% open · ⏱️ 23.02.2025):
 
 	```
 	git clone https://github.com/MichaelTMatthews/Craftax
@@ -343,7 +343,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/Evolutionary-Intelligence/pypop">pypop</a></b> (🥈16 ·  ⭐ 230) - [CCF-A] PyPop7: A Pure-Python Library for POPulation-based Black-Box.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Evolutionary-Intelligence/pypop) (👨‍💻 15 · 🔀 36 · 📋 11 - 18% open · ⏱️ 20.03.2025):
+- [GitHub](https://github.com/Evolutionary-Intelligence/pypop) (👨‍💻 15 · 🔀 36 · 📋 11 - 18% open · ⏱️ 27.03.2025):
 
 	```
 	git clone https://github.com/Evolutionary-Intelligence/pypop
@@ -375,13 +375,13 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/CyberAgentAILab/cmaes">cmaes</a></b> (🥈14 ·  ⭐ 410) - Python library for CMA Evolution Strategy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/CyberAgentAILab/cmaes) (👨‍💻 9 · 🔀 67 · 📥 380 · 📋 39 - 20% open · ⏱️ 12.11.2024):
+- [GitHub](https://github.com/CyberAgentAILab/cmaes) (👨‍💻 9 · 🔀 68 · 📥 380 · 📋 39 - 20% open · ⏱️ 27.03.2025):
 
 	```
 	git clone https://github.com/CyberAgentAILab/cmaes
 	```
 </details>
-<details><summary><b><a href="https://github.com/dunnolab/xland-minigrid">xland-minigrid</a></b> (🥈14 ·  ⭐ 270) - JAX-accelerated Meta-Reinforcement Learning Environments.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dunnolab/xland-minigrid">xland-minigrid</a></b> (🥈14 ·  ⭐ 280) - JAX-accelerated Meta-Reinforcement Learning Environments.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/dunnolab/xland-minigrid) (👨‍💻 7 · 🔀 19 · 📦 12 · 📋 17 - 29% open · ⏱️ 16.11.2024):
 
@@ -429,15 +429,15 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/microprediction/humpday
 	```
 </details>
-<details><summary><b><a href="https://github.com/shibhansh/loss-of-plasticity">loss-of-plasticity</a></b> (🥈12 ·  ⭐ 280) - Demonstrations of Loss of Plasticity and Implementation of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/shibhansh/loss-of-plasticity">loss-of-plasticity</a></b> (🥈12 ·  ⭐ 290) - Demonstrations of Loss of Plasticity and Implementation of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/shibhansh/loss-of-plasticity) (👨‍💻 5 · 🔀 54 · 📦 5 · ⏱️ 03.11.2024):
+- [GitHub](https://github.com/shibhansh/loss-of-plasticity) (👨‍💻 5 · 🔀 56 · 📦 5 · ⏱️ 03.11.2024):
 
 	```
 	git clone https://github.com/shibhansh/loss-of-plasticity
 	```
 </details>
-<details><summary><b><a href="https://github.com/uclaml/SPPO">SPPO</a></b> (🥈11 ·  ⭐ 500) - The official implementation of Self-Play Preference Optimization (SPPO). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/uclaml/SPPO">SPPO</a></b> (🥈11 ·  ⭐ 510) - The official implementation of Self-Play Preference Optimization (SPPO). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/uclaml/SPPO) (👨‍💻 4 · 🔀 46 · 📋 20 - 70% open · ⏱️ 23.01.2025):
 
@@ -453,9 +453,9 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 	git clone https://github.com/MeoMix/symbiants
 	```
 </details>
-<details><summary><b><a href="https://github.com/WooooDyy/AgentGym">AgentGym</a></b> (🥉10 ·  ⭐ 420) - Code and implementations for the paper AgentGym: Evolving Large Language.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/WooooDyy/AgentGym">AgentGym</a></b> (🥉10 ·  ⭐ 430) - Code and implementations for the paper AgentGym: Evolving Large Language.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/WooooDyy/AgentGym) (👨‍💻 10 · 🔀 51 · 📋 18 - 27% open · ⏱️ 11.03.2025):
+- [GitHub](https://github.com/WooooDyy/AgentGym) (👨‍💻 10 · 🔀 53 · 📋 20 - 35% open · ⏱️ 11.03.2025):
 
 	```
 	git clone https://github.com/WooooDyy/AgentGym
@@ -463,7 +463,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary><b><a href="https://github.com/zju-vipa/Odyssey">Odyssey</a></b> (🥉10 ·  ⭐ 300) - Odyssey: Empowering Minecraft Agents with Open-World Skills. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/zju-vipa/Odyssey) (👨‍💻 5 · 🔀 19 · 📋 5 - 40% open · ⏱️ 06.03.2025):
+- [GitHub](https://github.com/zju-vipa/Odyssey) (👨‍💻 5 · 🔀 19 · 📋 6 - 33% open · ⏱️ 06.03.2025):
 
 	```
 	git clone https://github.com/zju-vipa/Odyssey
@@ -479,8 +479,8 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 </details>
 <details><summary>Show 170 hidden projects...</summary>
 
-- <b><a href="https://github.com/brainflow-dev/brainflow">brainflow</a></b> (🥇27 ·  ⭐ 1.4K) - BrainFlow is a library intended to obtain, parse and analyze.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/microsoft/malmo">malmo</a></b> (🥇25 ·  ⭐ 4.1K · 💀) - Project Malmo is a platform for Artificial Intelligence experimentation.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/brainflow-dev/brainflow">brainflow</a></b> (🥇25 ·  ⭐ 1.4K · 📉) - BrainFlow is a library intended to obtain, parse and.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ljvmiranda921/pyswarms">pyswarms</a></b> (🥇22 ·  ⭐ 1.3K · 💀) - A research toolkit for particle swarm optimization in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/nengo/nengo">nengo</a></b> (🥇22 ·  ⭐ 850 · 💀) - A Python library for creating and simulating large-scale brain.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/trevorstephens/gplearn">gplearn</a></b> (🥇21 ·  ⭐ 1.7K · 💀) - Genetic Programming in Python, with a scikit-learn inspired API. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
@@ -488,7 +488,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/huawei-noah/HEBO">HEBO</a></b> (🥈19 ·  ⭐ 2.6K) - Bayesian optimisation & Reinforcement Learning library developed by.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/kolbytn/mindcraft">mindcraft</a></b> (🥈18 ·  ⭐ 3.1K) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/rsteca/sklearn-deap">sklearn-deap</a></b> (🥈18 ·  ⭐ 770 · 💀) - Use evolutionary algorithms instead of gridsearch in scikit-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/minerllabs/minerl">minerl</a></b> (🥈18 ·  ⭐ 760) - MineRL Competition for Sample Efficient Reinforcement Learning -.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/minerllabs/minerl">minerl</a></b> (🥈18 ·  ⭐ 770) - MineRL Competition for Sample Efficient Reinforcement Learning -.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/rh12503/triangula">triangula</a></b> (🥈17 ·  ⭐ 3.9K · 💀) - Generate high-quality triangulated and polygonal art from images. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Chakazul/Lenia">Lenia</a></b> (🥈16 ·  ⭐ 3.6K · 💀) - Lenia - Mathematical Life Forms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/BIMK/PlatEMO">PlatEMO</a></b> (🥈16 ·  ⭐ 1.8K) - Evolutionary multi-objective optimization platform. <code>❗Unlicensed</code>
@@ -499,25 +499,25 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/HaaLeo/swarmlib">swarmlib</a></b> (🥈15 ·  ⭐ 530 · 💀) - This repository implements several swarm optimization algorithms.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/danijar/crafter">crafter</a></b> (🥈15 ·  ⭐ 420 · 💀) - Benchmarking the Spectrum of Agent Capabilities. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/google/evojax">evojax</a></b> (🥈14 ·  ⭐ 890 · 💤) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation">DistributedEvolutionaryComputation</a></b> (🥈14 ·  ⭐ 130) - A (still growing) paper list of Evolutionary.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
 - <b><a href="https://github.com/Helmholtz-AI-Energy/propulate">propulate</a></b> (🥈14 ·  ⭐ 36) - Propulate is an asynchronous population-based optimization algorithm.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/Jason2Brownlee/CleverAlgorithms">CleverAlgorithms</a></b> (🥈13 ·  ⭐ 2.1K · 📉) - Clever Algorithms: Nature-Inspired Programming Recipes. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/XAI-liacs/LLaMEA">LLaMEA</a></b> (🥈14 ·  ⭐ 27 · 📈) - Large Language Model Evolutionary Algorithm. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Jason2Brownlee/CleverAlgorithms">CleverAlgorithms</a></b> (🥈13 ·  ⭐ 2.1K) - Clever Algorithms: Nature-Inspired Programming Recipes. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/openai/multi-agent-emergence-environments">multi-agent-emergence-environments</a></b> (🥈13 ·  ⭐ 1.7K · 💀) - Environment generation code for the paper Emergent.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/google/brain-tokyo-workshop">brain-tokyo-workshop</a></b> (🥈13 ·  ⭐ 1.3K · 💀) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/fcampelo/EC-Bestiary">EC-Bestiary</a></b> (🥈13 ·  ⭐ 620 · 💤) - A bestiary of evolutionary, swarm and other metaphor-.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fcampelo/EC-Bestiary">EC-Bestiary</a></b> (🥈13 ·  ⭐ 630 · 💤) - A bestiary of evolutionary, swarm and other metaphor-.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/williamhunter/topy">topy</a></b> (🥈13 ·  ⭐ 500 · 💀) - Topology Optimization using Python. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Pattio/DeepSwarm">DeepSwarm</a></b> (🥈13 ·  ⭐ 320 · 💀) - Neural Architecture Search Powered by Swarm Intelligence. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/lantunes/cellpylib">cellpylib</a></b> (🥈13 ·  ⭐ 240 · 💀) - A library for working with Cellular Automata, for Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation">DistributedEvolutionaryComputation</a></b> (🥈13 ·  ⭐ 130 · 📉) - A (still growing) paper list of Evolutionary.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
 - <b><a href="https://github.com/firefly-cpp/FireflyAlgorithm">FireflyAlgorithm</a></b> (🥈13 ·  ⭐ 59) - Implementation of Firefly Algorithm in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/XAI-liacs/LLaMEA">LLaMEA</a></b> (🥈13 ·  ⭐ 25) - Large Language Model Evolutionary Algorithm. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/CWI-EvolutionaryIntelligence/GOMEA">gomea</a></b> (🥈13 ·  ⭐ 23) - Library for optimization with the model-based evolutionary algorithm GOMEA.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/davidrmiller/biosim4">biosim4</a></b> (🥈12 ·  ⭐ 3.3K) - Biological evolution simulator. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/openai/evolution-strategies-starter">evolution-strategies-starter</a></b> (🥈12 ·  ⭐ 1.6K · 💀) - Code for the paper Evolution Strategies as a Scalable.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/diambra/arena">arena</a></b> (🥈12 ·  ⭐ 330 · 💤) - DIAMBRA Arena: a New Reinforcement Learning Platform for.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/diambra/arena">arena</a></b> (🥈12 ·  ⭐ 340 · 💤) - DIAMBRA Arena: a New Reinforcement Learning Platform for.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Gentopia-AI/Gentopia">Gentopia</a></b> (🥈12 ·  ⭐ 310 · 💀) - Build Hierarchical Autonomous Agents through Config. Collaborative.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/brandontrabucco/design-bench">design-bench</a></b> (🥈12 ·  ⭐ 89 · 💀) - Benchmarks for Model-Based Optimization. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/automl/DEHB">DEHB</a></b> (🥈12 ·  ⭐ 77 · 💤) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/mikelma/craftium">craftium</a></b> (🥈12 ·  ⭐ 64) - A framework for creating rich, 3D, Minecraft-like single and.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/automl/DEHB">DEHB</a></b> (🥈12 ·  ⭐ 78 · 💤) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/mikelma/craftium">craftium</a></b> (🥈12 ·  ⭐ 66) - A framework for creating rich, 3D, Minecraft-like single and.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/jasonwebb/morphogenesis-resources">morphogenesis-resources</a></b> (🥈11 ·  ⭐ 2.1K) - Resources on the topic of digital morphogenesis.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/uber-research/deep-neuroevolution">deep-neuroevolution</a></b> (🥈11 ·  ⭐ 1.6K · 💀) - Deep Neuroevolution. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/hardmaru/estool">estool</a></b> (🥈11 ·  ⭐ 950 · 💀) - Evolution Strategies Tool. <code>❗Unlicensed</code>
@@ -531,19 +531,19 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/thieu1995/metaheuristics">metaheuristics</a></b> (🥉10 ·  ⭐ 280 · 💀) - Implement the-state-of-the-art meta-heuristic algorithms.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python">Hands-On-Genetic-Algorithms-with-Python</a></b> (🥉10 ·  ⭐ 270 · 💀) - Hands-On Genetic Algorithms with Python, Published by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/dcmocanu/sparse-evolutionary-artificial-neural-networks">sparse-evolutionary-artificial-neural-networks</a></b> (🥉10 ·  ⭐ 250 · 💀) - Always sparse. Never dense. But never say never. A.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/aimclub/GEFEST">GEFEST</a></b> (🥉10 ·  ⭐ 59 · 📈) - Toolbox for the generative design of geometrically-encoded physical.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/quality-diversity/quality-diversity.github.io">quality-diversity.github.io</a></b> (🥉10 ·  ⭐ 43 · 📈) - Website for Quality-Diversity optimisation algorithms. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/SwarmRL/SwarmRL">SwarmRL</a></b> (🥉10 ·  ⭐ 35) - Multi agent reinforcement learning for intelligent active matter. <code><a href="http://bit.ly/2M0xmjV">EPL-2.0</a></code>
 - <b><a href="https://github.com/EASEA/easea">easea</a></b> (🥉10 ·  ⭐ 18 · 💀) - EASEA (EAsy Specification of Evolutionary Algorithms) is an.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
 - <b><a href="https://github.com/opoframework/opof">opof</a></b> (🥉10 ·  ⭐ 4 · 💀) - The Open Planner Optimization Framework (OPOF). <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/arcelien/pba">pba</a></b> (🥉9 ·  ⭐ 500 · 💀) - Efficient Learning of Augmentation Policy Schedules. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/PKU-YuanGroup/Machine-Mindset">Machine-Mindset</a></b> (🥉9 ·  ⭐ 460 · 💀) - An MBTI Exploration of Large Language Models. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/PKU-YuanGroup/Machine-Mindset">Machine-Mindset</a></b> (🥉9 ·  ⭐ 470 · 💀) - An MBTI Exploration of Large Language Models. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/henry-yeh/DeepACO">DeepACO</a></b> (🥉9 ·  ⭐ 150) - [NeurIPS 2023] DeepACO: Neural-enhanced Ant Systems for Combinatorial.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/FeiLiu36/EoH">EoH</a></b> (🥉9 ·  ⭐ 140) - Evolution of Heuristics. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/aimclub/GEFEST">GEFEST</a></b> (🥉9 ·  ⭐ 59) - Toolbox for the generative design of geometrically-encoded physical objects.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/NVlabs/Bongard-LOGO">Bongard-LOGO</a></b> (🥉9 ·  ⭐ 51 · 💀) - Bongard-LOGO is a Python code repository with the purpose of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Evolutionary-Intelligence/EvolutionaryComputation-A-Modern-Perspective-ECAMP">EC-A-Modern-Perspective</a></b> (🥉9 ·  ⭐ 51) - Evolutionary Computation: A Modern Perspective |...|.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
-- <b><a href="https://github.com/quality-diversity/quality-diversity.github.io">quality-diversity.github.io</a></b> (🥉9 ·  ⭐ 43) - Website for Quality-Diversity optimisation algorithms. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/SioKCronin/swarmopt">swarmopt</a></b> (🥉9 ·  ⭐ 34) - Swarm intelligence optimizer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/NACLab/ngc-museum">ngc-museum</a></b> (🥉9 ·  ⭐ 12 · 📈) - NGC Museum: Biomimetic Credit Assignment and Brain-Inspired.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/NACLab/ngc-museum">ngc-museum</a></b> (🥉9 ·  ⭐ 12) - NGC Museum: Biomimetic Credit Assignment and Brain-Inspired Computing.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/automl/hypersweeper">hypersweeper</a></b> (🥉9 ·  ⭐ 11) - Hydra sweeper integration of our favorite optimization.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/firefly-cpp/NiaAML-GUI">NiaAML-GUI</a></b> (🥉9 ·  ⭐ 6) - GUI for NiaAML Python package. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/neurreps/awesome-neural-geometry">awesome-neural-geometry</a></b> (🥉8 ·  ⭐ 960) - A curated collection of resources and research.. <code>❗Unlicensed</code>
@@ -566,7 +566,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/facebookresearch/eai-vc">eai-vc</a></b> (🥉7 ·  ⭐ 480 · 💀) - The repository for the largest and most comprehensive empirical.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/algorithmsbooks/algforopt-notebooks">algforopt-notebooks</a></b> (🥉7 ·  ⭐ 450 · 💀) - Jupyter notebooks associated with the Algorithms for.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/NeuralNine/ai-car-simulation">ai-car-simulation</a></b> (🥉7 ·  ⭐ 280 · 💀) - A simple self-driving AI car game, which uses NEAT. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/jennyzzt/awesome-open-ended">awesome-open-ended</a></b> (🥉7 ·  ⭐ 200) - Awesome Open-ended AI. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jennyzzt/awesome-open-ended">awesome-open-ended</a></b> (🥉7 ·  ⭐ 210) - Awesome Open-ended AI. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/bollu/cellularAutomata">cellularAutomata</a></b> (🥉7 ·  ⭐ 190 · 💀) - a collection of cellular automata written in Haskell with.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/OpenDriveLab/ELM">ELM</a></b> (🥉7 ·  ⭐ 180) - [ECCV 2024] Embodied Understanding of Driving Scenarios. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/EvolutionGym/evogym-design-tool">evogym-design-tool</a></b> (🥉7 ·  ⭐ 100 · 💀) - Design tool for creating Evolution Gym environments. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -575,8 +575,8 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/conglu1997/intelligent-go-explore">intelligent-go-explore</a></b> (🥉7 ·  ⭐ 54) - Intelligent Go-Explore: Standing on the Shoulders of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/jcoreyes/evolvingrl">evolvingrl</a></b> (🥉7 ·  ⭐ 46 · 💀) - Supplementary Data for Evolving Reinforcement Learning Algorithms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/neuroevobench/neuroevobench">neuroevobench</a></b> (🥉7 ·  ⭐ 38 · 💀) - Neuroevolution Benchmark in JAX. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/sayin/Data_Driven_Symbolic_Regression">Data_Driven_Symbolic_Regression</a></b> (🥉7 ·  ⭐ 34 · 💀) - Interpretable machine learning (symbolic regression).. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/facebookresearch/agenthive">agenthive</a></b> (🥉7 ·  ⭐ 33 · 💀) - AgentHive provides the primitives and helpers for a seamless.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/sayin/Data_Driven_Symbolic_Regression">Data_Driven_Symbolic_Regression</a></b> (🥉7 ·  ⭐ 33 · 💀) - Interpretable machine learning (symbolic regression).. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/kourgeorge/project-origin">project-origin</a></b> (🥉7 ·  ⭐ 32 · 💀) - An Artificial Life simulator for Investigating Noogenesis. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
 - <b><a href="https://github.com/Evolving-AI-Lab/innovation-engine">innovation-engine</a></b> (🥉7 ·  ⭐ 31 · 💀) - Code base for Innovation Engines GECCO 2015 paper. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/SamsungSAILMontreal/PAPA">PAPA</a></b> (🥉7 ·  ⭐ 26 · 💤) - Repository for the PopulAtion Parameter Averaging (PAPA) paper. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -586,15 +586,16 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/facebookresearch/brainmagick">brainmagick</a></b> (🥉6 ·  ⭐ 430 · 💤) - Training and evaluation pipeline for MEG and EEG brain.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ShawK91/Evolutionary-Reinforcement-Learning">Evolutionary-Reinforcement-Learning</a></b> (🥉6 ·  ⭐ 230 · 💀) - Codebase for Evolutionary Reinforcement Learning.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/dinobby/ReConcile">ReConcile</a></b> (🥉6 ·  ⭐ 180 · 💀) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/siyuyuan/evoagent">evoagent</a></b> (🥉6 ·  ⭐ 85) - Resources for our paper: EvoAgent: Towards Automatic Multi-Agent.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/siyuyuan/evoagent">evoagent</a></b> (🥉6 ·  ⭐ 86) - Resources for our paper: EvoAgent: Towards Automatic Multi-Agent.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/AxelThevenot/Python_Benchmark_Test_Optimization_Function_Single_Objective">Python_Benchmark_Test_Optimization_Function_Single_Objective</a></b> (🥉6 ·  ⭐ 83 · 💀) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/facebookresearch/how-to-autorl">how-to-autorl</a></b> (🥉6 ·  ⭐ 76 · 💀) - Plug-and-play hydra sweepers for the EA-based multifidelity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/instadeepai/poppy">poppy</a></b> (🥉6 ·  ⭐ 71 · 💀) - Population-Based Reinforcement Learning for Combinatorial Optimization. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/facebookresearch/how-to-autorl">how-to-autorl</a></b> (🥉6 ·  ⭐ 77 · 💀) - Plug-and-play hydra sweepers for the EA-based multifidelity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/instadeepai/poppy">poppy</a></b> (🥉6 ·  ⭐ 72 · 💀) - Population-Based Reinforcement Learning for Combinatorial Optimization. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/duguodong7/model-evolution">model-evolution</a></b> (🥉6 ·  ⭐ 37) - [ACL 2024] Knowledge Fusion by Evolving Weights of Language.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/DaymudeLab/EvoSOPS">EvoSOPS</a></b> (🥉6 ·  ⭐ 7 · 💤) - A genetic algorithm for discovering diverse and high performing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/poprl/poprank">poprank</a></b> (🥉6 ·  ⭐ 6) - PopRank is a library implementing the most common ranking and rating methods. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Evolutionary-Intelligence/Biological-Evolution">Biological-Evolution</a></b> (🥉6 ·  ⭐ 4) - Just for Fun on Evolution... <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code>
 - <b><a href="https://github.com/enajx/HebbianMetaLearning">HebbianMetaLearning</a></b> (🥉5 ·  ⭐ 140 · 💀) - Meta-Learning through Hebbian Plasticity in Random.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/beeevita/EvoPrompt">EvoPrompt</a></b> (🥉5 ·  ⭐ 130 · 📈) - Official implementation of the paper Connecting Large.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/real-itu/Evocraft-py">Evocraft-py</a></b> (🥉5 ·  ⭐ 120 · 💀) - A Python interface for Minecraft built on gRPC. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/angusfung/population-based-training">population-based-training</a></b> (🥉5 ·  ⭐ 56 · 💀) - Reproducing results from DeepMinds paper on.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/deshwalmahesh/PHUDGE">PHUDGE</a></b> (🥉5 ·  ⭐ 49 · 💤) - Official repo for the paper PHUDGE: Phi-3 as Scalable Judge... <code>❗Unlicensed</code>
@@ -612,19 +613,18 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/Michael-Beukman/PCGNN">PCGNN</a></b> (🥉5 ·  ⭐ 15 · 💀) - Combining NEAT and novelty search to quickly generate diverse video game.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/joelnmdyer/synthpop">synthpop</a></b> (🥉5 ·  ⭐ 8 · 💀) - Populating agent-based models with agents who give rise to dynamics and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/baaivision/DenseFusion">DenseFusion</a></b> (🥉4 ·  ⭐ 140) - DenseFusion-1M: Merging Vision Experts for Comprehensive.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/beeevita/EvoPrompt">EvoPrompt</a></b> (🥉4 ·  ⭐ 130 · 💤) - Official implementation of the paper Connecting Large.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/xufangzhi/ENVISIONS">ENVISIONS</a></b> (🥉4 ·  ⭐ 100 · 💤) - [Preprint] A Neural-Symbolic Self-Training Framework. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/gordonbrander/generative-ui-playbook">generative-ui-playbook</a></b> (🥉4 ·  ⭐ 73 · 💤) -  <code><a href="https://tldrlegal.com/search?q=CC-BY-4.0">❗️CC-BY-4.0</a></code>
-- <b><a href="https://github.com/hengzhe-zhang/awesome-genetic-programming">awesome-genetic-programming</a></b> (🥉4 ·  ⭐ 54) - A curated list of resources for genetic programming. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/hengzhe-zhang/awesome-genetic-programming">awesome-genetic-programming</a></b> (🥉4 ·  ⭐ 55) - A curated list of resources for genetic programming. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Chakazul/Primordia">Primordia</a></b> (🥉4 ·  ⭐ 30 · 💀) - Conways Game of Life with multiple states. A precursor of.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/liuqh16/MAZero">MAZero</a></b> (🥉4 ·  ⭐ 26 · 💤) - Open-source codebase for MAZero, from Efficient Multi-agent.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/proroklab/ControllingBehavioralDiversity">ControllingBehavioralDiversity</a></b> (🥉4 ·  ⭐ 21) - This repository contains the code for Diversity.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/maxencefaldor/Leniabreeder">Leniabreeder</a></b> (🥉4 ·  ⭐ 20 · 💤) - Repository for Toward Artificial Open-Ended Evolution within.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/adaptive-intelligent-robotics/QDAC">QDAC</a></b> (🥉4 ·  ⭐ 13 · 💤) - Repository for Quality-Diversity Actor-Critic: Learning High-Performing and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/adaptive-intelligent-robotics/QDAC">QDAC</a></b> (🥉4 ·  ⭐ 15 · 💤) - Repository for Quality-Diversity Actor-Critic: Learning High-Performing and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Evolving-AI-Lab/cmoea">cmoea</a></b> (🥉4 ·  ⭐ 7 · 💀) - The source code of the CMOEA module. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/AxelThevenot/Genetic_Algorithm">Genetic_Algorithm</a></b> (🥉4 ·  ⭐ 5 · 💀) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ALife-Newsletter/alife_social">alife_social</a></b> (🥉4 ·  ⭐ 4) - Places where to find fellow alifers. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/xingchenwan/bgpbt">bgpbt</a></b> (🥉3 ·  ⭐ 28 · 💀) - [AutoML22] Bayesian Generational Population-based Training (BG-PBT). <code>❗Unlicensed</code>
-- <b><a href="https://github.com/proroklab/ControllingBehavioralDiversity">ControllingBehavioralDiversity</a></b> (🥉3 ·  ⭐ 21) - This repository contains the code for Diversity.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Decadz/Evolved-Model-Agnostic-Loss">Evolved-Model-Agnostic-Loss</a></b> (🥉3 ·  ⭐ 11 · 💤) - PyTorch code for the EvoMAL algorithm presented in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/atomisticnet/aevo">aevo</a></b> (🥉3 ·  ⭐ 8 · 💀) - Atomistic Evolution. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
 - <b><a href="https://github.com/enajx/ES">ES</a></b> (🥉3 ·  ⭐ 6 · 💀) - Evolution Strategy (ES) implementation of.. <code>❗Unlicensed</code>
@@ -638,7 +638,7 @@ This curated list contains 220 awesome open-source projects with a total of 170K
 - <b><a href="https://github.com/lunjohnzhang/warehouse_env_gen_nca_public">warehouse_env_gen_nca_public</a></b> (🥉2 ·  ⭐ 9 · 💀) - Official implementation of the paper Arbitrarily.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ilyalasy/moe-routing">moe-routing</a></b> (🥉2 ·  ⭐ 9 · 💤) - Analysis of token routing for different implementations of.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ThomasMiconi/MetaMetaLearning">MetaMetaLearning</a></b> (🥉2 ·  ⭐ 8 · 💀) - Evolve plastic networks to be able to automatically.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/ECNU-ICALK/BPT-VLM">BPT-VLM</a></b> (🥉1 ·  ⭐ 16 · 💀) - [IJCAI 2023] Black-box Prompt Tuning for Vision-Language Model.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ECNU-ICALK/BPT-VLM">BPT-VLM</a></b> (🥉1 ·  ⭐ 17 · 💀) - [IJCAI 2023] Black-box Prompt Tuning for Vision-Language Model.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/RobertTLange/es-lottery">es-lottery</a></b> (🥉1 ·  ⭐ 15 · 💀) - Lottery Tickets in Evolutionary Optimization (Lange &.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/FLAIROx/cultural-accumulation">cultural-accumulation</a></b> (🥉1 ·  ⭐ 13 · 💤) -  <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ThomasMiconi/LearningToLearnCogTasks">LearningToLearnCogTasks</a></b> (🥉1 ·  ⭐ 9 · 💀) - Code for the ICML 2023 paper Learning to acquire.. <code>❗Unlicensed</code>
