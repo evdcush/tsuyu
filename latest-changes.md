@@ -1,20 +1,10 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/anyoptimization/pymoo">pymoo</a></b> (🥇29 ·  ⭐ 2.9K · 📈) - NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA),.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/rodrigo-arenas/Sklearn-genetic-opt">Sklearn-genetic-opt</a></b> (🥇23 ·  ⭐ 380 · 📈) - Hyperparameter optimization and feature selection for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/ahmedfgad/GeneticAlgorithmPython">GeneticAlgorithmPython</a></b> (🥇22 ·  ⭐ 2.2K · 📈) - Source code of PyGAD, a Python 3 library for building.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers">Gradient-Free-Optimizers</a></b> (🥇22 ·  ⭐ 1.3K · 📈) - Lightweight optimization with local, global,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/microprediction/humpday">humpday</a></b> (🥈19 ·  ⭐ 150 · 📈) - SOTA Black-box optimization (Python and JS) without the baggage. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/jMetal/jMetalPy">jMetalPy</a></b> (🥇21 ·  ⭐ 600 · 📉) - A framework for single/multi-objective optimization with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/sotopia-lab/sotopia">sotopia</a></b> (🥈18 ·  ⭐ 320 · 📉) - Sotopia: an Open-ended Social Learning Environment (ICLR 2024.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/adaptive-intelligent-robotics/QDax">QDax</a></b> (🥈16 ·  ⭐ 360 · 💤) - Accelerated Quality-Diversity. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/gugarosa/opytimizer">opytimizer</a></b> (🥈14 ·  ⭐ 630 · 📉) - Opytimizer is a Python library consisting of meta-heuristic.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/automl/hypersweeper">hypersweeper</a></b> (🥉10 ·  ⭐ 16 · 💤) - Hydra sweeper integration of our favorite optimization.. <code>❗Unlicensed</code>
+- <b><a href="{}">camel</a></b> (🥇6 · 📉) -  <code>❗Unlicensed</code>
+- <b><a href="{}">pymoo</a></b> (🥇6 · 📉) -  <code>❗Unlicensed</code>
+- <b><a href="{}">brainflow</a></b> (🥈3 · 📉) -  <code>❗Unlicensed</code>
+- <b><a href="{}">malmo</a></b> (🥉1 · 📉) -  <code>❗Unlicensed</code>
+- <b><a href="{}">ChatDev</a></b> (📉) -  <code>❗Unlicensed</code>
 
