@@ -2,7 +2,7 @@ nature-inspired intelligence
 
 ## Contents
 
-- [Others](#others) _224 projects_
+- [Others](#others) _3 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -26,7 +26,7 @@ nature-inspired intelligence
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/camel-ai/camel">camel</a></b> (🥇33 ·  ⭐ 15K) - CAMEL: The first and the best multi-agent framework. Finding the Scaling.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary>Show 3 hidden projects...</summary>
 
 - [GitHub](https://github.com/camel-ai/camel) (👨‍💻 180 · 🔀 1.7K · 📥 520 · 📦 290 · 📋 1.4K - 29% open · ⏱️ 01.01.2026):
 
